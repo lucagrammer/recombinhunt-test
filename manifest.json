@@ -1,0 +1,13 @@
+{
+  "name": "RecombinHunt",
+  "short_name": "RecombinHunt",
+  "icons": [
+    {
+      "src": "google-touch-icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#2A345B",
+  "theme_color": "#2A345B",
+  "display": "fullscreen"
+}
